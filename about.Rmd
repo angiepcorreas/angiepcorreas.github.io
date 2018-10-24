@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Angie Paola Correa Sepúlveda.
+- __Ocupation:__ Industrial Engineering student.
+- __Hobbies:__ Learning about data science and how things work...But hey, not everything is study. I also like sports and watching movies. Music makes me get relax and reading is part of my lifestyle.
+
+Traveling is one of my favorite plans, so here is a photo of me in one of the recent places I visited.
