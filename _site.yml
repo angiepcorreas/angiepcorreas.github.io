@@ -1,9 +1,27 @@
 name: "Angie-website"
 output_dir: "."
 navbar:
-  title: "Welcome to my Website"
+  title: "Angie Correa"
   left:
     - text: "Home"
       href: index.html
+      icon: fa-home fa-lg
     - text: "About Me"
       href: about.html
+      icon: fa-female fa-lg
+    - text: "Research"
+      href: research.html
+      icon: fa-graduation-cap fa-lg
+  right:
+    - icon: fa-file-text-o fa-lg
+      href: http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001660003
+    - icon: fa-github fa-lg
+      href: https://github.com/angiepcorreas
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/angiepcorreas
+
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    css: style.css

@@ -1,0 +1,36 @@
+---
+title: "Research activities"
+---
+
+---
+
+##Interests
+
+- Regression models
+- Probability and Inference
+- Machine Learning
+- Discrete-event simulation
+- Agent-based simulation
+
+---
+
+##Scientifics events
+
+* __XXVIII Simposio Internacional de Estadística 2018. _(Bucaramanga, Santander).___
+    + Correa, A.P; Mesa, A.T.; Ordoñez, J.J.; Castro, J.A.; Usuga, O.C.
+"[Cartas de control individual y EWMA para el análisis de la variabilidad en el proceso de deshuese de res de una empresa del sector cárnico](http://ciencias.bogota.unal.edu.co/fileadmin/content/eventos/simposioestadistica/documentos/Simposio_2018/memorias_2018/comunicaciones/Cartas_de_control_individual_y_EWMA_para_el_analisis_de_la_variabilidad_en_el_proceso_de_deshuece_de_res_de_una_empresa_del_sector_carnico_-_Angie_Correa_Sepulveda.pdf)".   
+
+* __XIX Latin-Iberoamerican Conference on Operations Research 2018. _(Lima, Perú).___ 
+    + Correa, A.P; Garcés, C.; Castro, J.A.; Ceballos, F.
+"Desarrollo de un modelo de simulación de eventos discretos en la producción de suelas termoplásticas".
+
+---
+
+##Pubs 
+
+* [Pruebas de Bondad de ajuste](http://rpubs.com/angiepcorreas/391417).
+ 
+
+
+
+
