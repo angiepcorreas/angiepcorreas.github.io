@@ -4,6 +4,5 @@ title: <center> Welcome to my Website </center>
 
 <center> My name is Angie Correa. I am an Industrial Engineering student passionate about data science.</center>
 
+![](C:\Users\usuario\Desktop\angieprofile.png)
 
-
-![](C:\Users\usuario\Documents\angieprofile.jpg)
