@@ -29,7 +29,10 @@ title: "Research activities"
 ##Pubs 
 
 * [Pruebas de Bondad de ajuste](http://rpubs.com/angiepcorreas/391417).
- 
+
+---
+
+<center> <p>Copyright &copy; 2018, made with Rmarkdown. All rights reserved.</p> </center>
 
 
 

@@ -9,4 +9,8 @@ title: "About Me"
 
 
 <center>![R Users Group - Ecuador](https://www.recluit.com/WordPress/wp-content/uploads/2018/08/machine-learning-recluit-history.jpg)</center>
-        
+
+---
+
+<center> <p>Copyright &copy; 2018, made with Rmarkdown. All rights reserved.</p> </center>
+
