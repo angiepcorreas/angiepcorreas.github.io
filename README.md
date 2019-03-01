@@ -1,2 +1,2 @@
 # angiepcorreas.github.io
-Creating my website 
+This repository contains the information and all about the creation of my website. 
