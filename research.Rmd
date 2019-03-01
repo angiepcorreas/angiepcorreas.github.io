@@ -24,6 +24,22 @@ title: "Research activities"
     + Correa, A.P; Garcés, C.; Castro, J.A.; Ceballos, F.
 "Desarrollo de un modelo de simulación de eventos discretos en la producción de suelas termoplásticas".
 
+* __II Congreso Colombiano de Estadística. _(Cali, Colombia).___ 
+    + Correa, A.P; Pérez, K.J; Usuga, O.C.
+"[Predicción de las categorías del índice de calidad del aire para el Valle de Aburrá](https://drive.google.com/file/d/1oxizkNzxg3xoVmrXTgBVCvYoA3CBj79A/view)".
+
+---
+
+##Shiny apps 
+
+* [Teorema del límite central](https://angiepcorreas.shinyapps.io/Teoremalimitecentral/).
+
+* [Pruebas de hipótesis](https://angiepcorreas.shinyapps.io/Pruebashipotesis/).
+
+* [Pruebas de bondad de ajuste](https://angiepcorreas.shinyapps.io/Pruebas_bondad/).
+
+* [Air quality application for Aburrá Valley (Colombia)](https://angiepcorreas.shinyapps.io/Airqualityapplication/).
+
 ---
 
 ##Pubs 
